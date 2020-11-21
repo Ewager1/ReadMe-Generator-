@@ -2,9 +2,11 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
+- [ReadMe How-to Video](https://youtu.be/B5zHLzdekQo)
+
 - [Live Link](http://www.google.com)
 
-- ![Project Image](./Develop/utils/projectImage/demoPic.png)
+- ![Example Project Image](./Develop/utils/projectImage/demoPic.png)
 
 ## Description
 
