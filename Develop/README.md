@@ -1,14 +1,14 @@
-# title                                             
+# Some Stuff                                            
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-- [Live Link](title )
+- [Live Link](Some Stuff)
 
-- ![Project Image](./utils/projectImage/demoPic.png)
+- ![Project Image](./utils/projectImage/Some Stuff)
 
 ## Description                        
 
-title  
+Some Stuff 
 
 
 ## Table of Contents 
@@ -21,11 +21,11 @@ title
 
 ## Installation 
 
-- title 
+- Some Stuff
 
 ## Usage 
 
-- title 
+- Some Stuff
 
 ## License 
 
@@ -35,14 +35,14 @@ title
 
 ## Contributions
 
-- title 
+- 
 
 ## Tests 
 
-- title 
+- Some Stuff
 
 ## Questions 
-- title 
+- Some Stuff
 
-- My Email: title 
-- My Github: [title ](title )
+- My Email: Some Stuff
+- My Github: [Some Stuff](Some Stuff)

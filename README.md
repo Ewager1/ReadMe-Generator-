@@ -2,7 +2,7 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-- [ReadMe How-to Video](https://youtu.be/B5zHLzdekQo)
+- [ReadMe How-to Video](https://youtu.be/bh2vGkj8W5Q)
 
 - [Live Link](http://www.google.com)
 
