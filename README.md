@@ -4,7 +4,7 @@
 
 - [Live Link](http://www.google.com)
 
-- ![Project Image](./develop/utils/projectImage/demoPic.png)
+- ![Project Image](./Develop/utils/projectImage/demoPic.png)
 
 ## Description
 
